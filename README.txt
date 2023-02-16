@@ -1,3 +1,7 @@
+# Genetic algorithms simulation, simple
+
+Answer to assignment from "AI methods and applications" course, DTE-2501 autumn 2021, from UiT The Arctic University of Norway.
+
 The starter code consists of 3 python files: GAengine.py, Main.py and Utils.py. 
 You will need to install pygame in your environment for the code to work.
 Main.py contains the render code. The initial population is also created here. 

@@ -4,7 +4,7 @@ Answer to assignment from "AI methods and applications" course, DTE-2501 autumn 
 
 The starter code consists of 3 python files: GAengine.py, Main.py and Utils.py. 
 You will need to install pygame in your environment for the code to work.
-Main.py contains the render code. The initial population is also created here. 
+Main.py contains the render code. The initial population is also initialized here. 
 
 GAengine.py will contain the bulk of your genetic algorithm implementation. 
 There are skeleton functions in place for fitness assignment and selection.
